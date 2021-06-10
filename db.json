@@ -1,14 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "currency": "NGN",
+  "customFields": [
+    'lastName', 'firstName', 'id', 'age'
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "description": "string",
+  "linkName": "string",
+  "merchantId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "notificationEmail": "string",
+  "planId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "redirectUrl": "string",
+  "slug": "string",
+  "successMessage": "string",
+  "type": "string"
 }

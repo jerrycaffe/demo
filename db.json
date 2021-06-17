@@ -1,4 +1,5 @@
 {
+  "plans": {
   "currency": "NGN",
   "customFields": [
     'lastName', 'firstName', 'id', 'age'
@@ -11,5 +12,5 @@
   "redirectUrl": "string",
   "slug": "string",
   "successMessage": "string",
-  "type": "string"
+  "type": "string"}
 }
